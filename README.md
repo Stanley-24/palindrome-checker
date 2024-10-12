@@ -16,7 +16,7 @@ This project was created as part of my learning journey in JavaScript, HTML, and
 - The result will display whether the input is a palindrome or not.
 
 ## Live Preview
-Check out the live version of this app here: [Palindrome Checker Live](https://stanley-24.github.io/palindrome-checker/)
+Check out the live version of this app here: [Palindrome Checker Live](https://palindr0me-game.vercel.app/)
 
 ## Code Repository
 You can view the source code on GitHub here: [Palindrome Checker Code](https://github.com/Stanley-24/palindrome-checker)
