@@ -36,8 +36,8 @@ You can view the source code on GitHub here: [Palindrome Checker Code](https://g
 If you have any questions, suggestions, or want to connect, feel free to reach out to me:
 
 - GitHub: [Stanley Owarieta](https://github.com/Stanley-24)
-- Twitter (X): [@StanleyO_X](https://twitter.com/StanleyO_X)
-- LinkedIn: [Stanley Owarieta](https://linkedin.com/in/StanleyOwarieta)
+- Twitter (X): [@StanleyO_X](https://x.com/Stanley_24_)
+- LinkedIn: [Stanley Owarieta](https://www.linkedin.com/in/stanley-owarieta/)
 
 ---
 
